@@ -1,0 +1,2 @@
+tornado==4.3
+cymysql==0.8.5
